@@ -1,2 +1,2 @@
 # typescript-react-exercise
-Repository for an exercise to strengthen TypeScript and React fundamentals.
+This repository contains an exercise aimed at solidifying TypeScript and React skills.
